@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FastAPI Server
 ![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
 
@@ -83,3 +84,7 @@ Feel free to contribute by opening issues or creating pull requests.
 
 ## License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
+=======
+# Fast-API-Server
+This FastAPI Python script sets up a web app serving index.html at /, handles CSV and logging via routers (/csv, /logging), serves static files, and runs on port 2121 with uvicorn.
+>>>>>>> e5d8231e9477565f7d6ff5ec6d22bf018fed2f3e
